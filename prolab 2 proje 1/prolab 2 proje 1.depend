@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647804244 source:d:\proje denemeleri yeni dönem c dili\prolab 2 proje 1\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
